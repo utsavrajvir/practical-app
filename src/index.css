@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.pageNotFound{
+  top: 30%;
+  left: 40%;
+  position: absolute;
+  min-width: 30%
+}

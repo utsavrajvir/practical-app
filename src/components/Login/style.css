@@ -1,0 +1,16 @@
+.login-panel{
+    max-width: 430px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px !important;
+    border: none !important;
+}
+
+.login-container{
+    top: 20%;
+    left: 35%;
+    position: absolute;
+    min-width: 30%
+}
+
+.error{
+    color: red;
+}
